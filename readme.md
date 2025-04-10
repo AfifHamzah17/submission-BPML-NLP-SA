@@ -108,6 +108,7 @@ vectorizer = joblib.load('vectorizer.pkl')
 sample_text = "Saya sangat senang dengan produk ini!"
 prediction = predict_sentiment(sample_text, svm_model, vectorizer)
 print(f"Sentimen Prediksi: {prediction}")
+```
 
 ## Requirements
 
