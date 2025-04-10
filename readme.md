@@ -124,7 +124,6 @@ To run the project, you'll need the following libraries:
 
 You can install all the dependencies using:
 
-    ```bash
     pip install -r requirements.txt
 
 ## Contributing
